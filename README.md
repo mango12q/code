@@ -141,23 +141,7 @@ data/
 
 支持格式：NetCDF (.nc) 或 MATLAB (.mat)
 
----
 
-## 📚 引用
-
-如果您使用了本仓库的代码，请引用原始论文：
-
-```bibtex
-@article{xie2024sst,
-  title={基于深度学习的南海海表面温度的智能化预测研究},
-  author={谢博闻 and 张聪 and 杨树国 and 冯中坤 and 孙桂敏},
-  journal={海洋与湖沼},
-  volume={55},
-  number={5},
-  pages={1083--1095},
-  year={2024}
-}
-```
 
 ---
 
